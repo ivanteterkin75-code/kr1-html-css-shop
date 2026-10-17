@@ -1,0 +1,21 @@
+*   [33m48fe97e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #5 from ivanteterkin75-code/feature/multi-page-navigation
+[31m|[m[32m\[m  
+[31m|[m * [33m397af99[m[33m ([m[1;31morigin/feature/multi-page-navigation[m[33m, [m[1;32mfeature/multi-page-navigation[m[33m)[m feat: add multi-page structure navigation and anchors
+[31m|[m[31m/[m  
+*   [33mae7c24c[m Merge pull request #4 from ivanteterkin75-code/feature/css-architecture-states
+[33m|[m[34m\[m  
+[33m|[m * [33m75f82c2[m[33m ([m[1;31morigin/feature/css-architecture-states[m[33m, [m[1;32mfeature/css-architecture-states[m[33m)[m refactor: organize CSS variables and states
+[33m|[m[33m/[m  
+*   [33m997dbc0[m Merge pull request #3 from ivanteterkin75-code/feature/form-modal-validation
+[35m|[m[36m\[m  
+[35m|[m * [33mfc7b2e0[m[33m ([m[1;31morigin/feature/form-modal-validation[m[33m, [m[1;32mfeature/form-modal-validation[m[33m)[m feat: add order form modal and validation
+[35m|[m[35m/[m  
+*   [33md976c31[m Merge pull request #2 from ivanteterkin75-code/feature/html-css-start-page
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33mc3fa50b[m[33m ([m[1;31morigin/feature/html-css-start-page[m[33m, [m[1;32mfeature/html-css-start-page[m[33m)[m feat: add semantic HTML structure and base CSS styles
+[1;31m|[m[1;31m/[m  
+*   [33m95adc6e[m Merge pull request #1 from ivanteterkin75-code/feature/start-page
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33m215a4e9[m feat: add project description section
+[1;33m|[m[1;33m/[m  
+* [33m7bbfdee[m feat: initialize frontend project structure
